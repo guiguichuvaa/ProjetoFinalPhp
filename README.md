@@ -114,7 +114,7 @@ Este projeto é um sistema completo de gerenciamento de alunos, desenvolvido com
 - Inicie o servidor local (XAMPP, WAMP, Laragon etc.).
 
 - Acesse pelo navegador:
-  - http://localhost/aulas_guilherme_php/tarefasphp/boostrap/index.php
+  - http://localhost/aulas_php_guilherme/tarefasphp/boostrap/index.php
 
 ## 📊 Prints das Telas (opcional)
 
@@ -124,3 +124,4 @@ Este projeto é um sistema completo de gerenciamento de alunos, desenvolvido com
 
 Este sistema foi desenvolvido como projeto final com foco em organização, funcionalidade e visualização de dados.
 Novas funcionalidades podem ser adicionadas, como autenticação de usuários ou exportação de relatórios.
+
