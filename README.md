@@ -82,8 +82,10 @@ Este projeto é um sistema completo de gerenciamento de alunos, desenvolvido com
 - Chart.js ou Google Charts (gráficos e suas informações)
 
 ## 📂 Estrutura do Projeto:
-/projeto  
-|-- cadastro.php  
+/aulas_php_guilherme  
+  /tarefasphp  
+    /boostrap  
+|-- cadastro.php
 |-- conexao.php  
 |--deleta.php  
 |--edita.php  
@@ -170,5 +172,6 @@ capazes de excluir o cadastro do aluno ou editar suas informações. Ademais, po
 
 Este sistema foi desenvolvido como projeto final com foco em organização, funcionalidade e visualização de dados.
 Novas funcionalidades podem ser adicionadas, como autenticação de usuários ou exportação de relatórios.
+
 
 
